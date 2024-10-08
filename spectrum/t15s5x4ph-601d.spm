@@ -1,0 +1,10 @@
+{
+  "name": "t15s5x4ph-601d",
+  "comment": "t15s5x4full-601d",
+  "spectrum": {
+    "kind": "spectrum_1D",
+    "source": "t15s5x4full-601d.dat",
+    "angle": 0.0,
+    "PWM": true
+  }
+}
