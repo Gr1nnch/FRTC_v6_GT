@@ -1,0 +1,11 @@
+{
+  "name": "7x3s1d_Nz",
+  "comment": "FT2 spcpz_231222.dat",
+  "spectrum": {
+    "kind": "spectrum_1D",
+    "source": "spcpz7X3.dat",
+    "coordinate_system": 1,
+    "angle": 0.0,
+    "PWM": false
+  }
+}
